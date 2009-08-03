@@ -1,0 +1,2 @@
+faceted singleton ranks, 62.886786 seconds, dataset ../data/yt_nd_mini.tagged_graph
+single rank, 0.099810 seconds, dataset ../data/yt_nd_mini.tagged_graph
